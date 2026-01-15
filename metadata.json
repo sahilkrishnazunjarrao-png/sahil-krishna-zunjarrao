@@ -1,0 +1,7 @@
+{
+  "name": "MSBTE K-Scheme Assessment Manager",
+  "description": "A digital assessment system for MSBTE Diploma Engineering, featuring Excel-style formats K3, K4, K5, and K6 for student evaluation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
